@@ -1,4 +1,4 @@
-# NOVA // BY JERRY
+# NOVA UNRESTRICTED AI CHATBOT
 
 **An Unrestricted AI Assistant**
 
