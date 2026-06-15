@@ -37,5 +37,8 @@ To use NOVA, you need your own Groq API key. This ensures you have full control 
 * **Zero-Dependency:** A single-file application that is fast, secure, and easy to maintain.
 
 ## ⚖️ Disclaimer
-NOVA is designed as a technical experiment. By using this tool, you acknowledge that you are responsible for the prompts you send and the content generated.
+NOVA IS MADE AS A SOCIAL AND TECHNCAL EXPERIMENT, YOU ARE RESPONSIBLE FOR EVERY INFORMATION AND CONTENT GENERATED, YOU ARE FULL RESPONSIBLE IF THIS INFO GENERATED IS USED FOR HARMING OTHERS.
+
+
+---------------------- JERRY ----------------------
 
