@@ -45,6 +45,6 @@ NOVA IS MADE AS A SOCIAL AND TECHNCAL EXPERIMENT, YOU ARE RESPONSIBLE FOR EVERY 
 
 ## SCREENSHOTS 👇👇👇
 
-![NOVA Interface 1](Nova-ss-1.jpg)
-![NOVA Interface 2](Nova-ss-2.jpg)
+![NOVA Interface 1](Nova-ss1.jpg)
+![NOVA Interface 2](Nova-ss2.jpg)
 
