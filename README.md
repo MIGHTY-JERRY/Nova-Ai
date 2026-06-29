@@ -10,7 +10,7 @@ You have two ways to run NOVA:
 
 ### Option 1: Live Web Access
 You can access the hosted version of NOVA directly in your browser without any installation:
-**[https://mighty-jerry.github.io/Nova-Ai/]**
+**[https://nvm-jashan.github.io/Nova-Ai/]**
 
 ### Option 2: Run Locally
 1. Download the `index.html` file from this repository.
