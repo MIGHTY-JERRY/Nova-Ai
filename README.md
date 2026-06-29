@@ -40,7 +40,7 @@ To use NOVA, you need your own Groq API key. This ensures you have full control 
 NOVA IS MADE AS A SOCIAL AND TECHNCAL EXPERIMENT, YOU ARE RESPONSIBLE FOR EVERY INFORMATION AND CONTENT GENERATED, YOU ARE FULL RESPONSIBLE IF THIS INFO GENERATED IS USED FOR HARMING OTHERS.
 
 
----------------------- JERRY ----------------------
+---------------------- JASHAN ----------------------
 
 
 ## SCREENSHOTS 👇👇👇
